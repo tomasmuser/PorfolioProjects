@@ -2,7 +2,8 @@
 
 | Files | Description |
 | --- | ----------- |
-| Covid19Project.pbix | Power Bi dashboard |
+| Covid19Project.pbix | Power Bi dashboard |  
+| Covid19Project.pdf | Dashboard in PDF format |  
 | Project_Covid19_EDA.sql | T-SQL Query for EDA |
 | ReadMe.md | This file |
 | sql-import.ipynb | Jupiter Notebook for creating a SQL Server Database |
