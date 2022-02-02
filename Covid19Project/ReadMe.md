@@ -1,4 +1,4 @@
-## COVID-19 World Dashboard
+# COVID-19 World Dashboard
 
 | Files | Description |
 | --- | ----------- |
@@ -7,6 +7,6 @@
 | ReadMe.md | This file |
 | sql-import.ipynb | Jupiter Notebook for creating a SQL Server Database |
 
-Sources
+### Sources  
     OWID https://github.com/owid/covid-19-data/tree/master/public/data  
     Worldometer (Flags) https://www.worldometers.info/geography/flags-of-the-world/
